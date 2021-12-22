@@ -1,0 +1,7 @@
+{
+  "name": "delivery-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "elias fernandes <eliasfernandescout@gmail.com>",
+  "license": "MIT"
+}
